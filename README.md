@@ -8,4 +8,3 @@ This concept of parking system helps to solve the problem of shortage of parking
 ## Link to the demonstration of the project
 (https://youtu.be/o6_VvFoCMSw?si=hwANspzobGcCektt)
 
-#Note:- This project is still on a build state.
