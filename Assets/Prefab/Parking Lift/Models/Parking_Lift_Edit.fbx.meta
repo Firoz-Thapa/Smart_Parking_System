@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: 8593d078a7b83214793e42e8283301f7
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Arc
+  - first:
+      1: 100002
+    second: Arc2
+  - first:
+      1: 100004
+    second: Circle001
+  - first:
+      1: 100006
+    second: Circle001 1
+  - first:
+      1: 100008
+    second: Circle001 2
+  - first:
+      1: 100010
+    second: Circle001 3
+  - first:
+      1: 100012
+    second: Circle001 4
+  - first:
+      1: 100014
+    second: Circle001 5
+  - first:
+      1: 100016
+    second: Circle001 6
+  - first:
+      1: 100018
+    second: Circle001 7
+  - first:
+      1: 100020
+    second: Circle001 8
+  - first:
+      1: 100022
+    second: Circle001 9
+  - first:
+      1: 100024
+    second: group12
+  - first:
+      1: 100026
+    second: group14
+  - first:
+      1: 100028
+    second: group15
+  - first:
+      1: 100030
+    second: group16
+  - first:
+      1: 100032
+    second: group17
+  - first:
+      1: 100034
+    second: group18
+  - first:
+      1: 100036
+    second: group19
+  - first:
+      1: 100038
+    second: group2
+  - first:
+      1: 100040
+    second: group20
+  - first:
+      1: 100042
+    second: group21
+  - first:
+      1: 100044
+    second: group22
+  - first:
+      1: 100046
+    second: group23
+  - first:
+      1: 100048
+    second: group24
+  - first:
+      1: 100050
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:group1
+  - first:
+      1: 100052
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R
+  - first:
+      1: 100054
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R2
+  - first:
+      1: 100056
+    second: HeavyEquipmentTrailer:group1
+  - first:
+      1: 100058
+    second: HeavyEquipmentTrailer:polySurface82
+  - first:
+      1: 100060
+    second: HeavyEquipmentTrailer:polySurface85
+  - first:
+      1: 100062
+    second: HeavyEquipmentTrailer:polySurface86
+  - first:
+      1: 100064
+    second: HeavyEquipmentTrailer:polySurface97
+  - first:
+      1: 100066
+    second: HeavyEquipmentTrailer:T_3:Cabin
+  - first:
+      1: 100068
+    second: HeavyEquipmentTrailer:T_3:Truck_1A
+  - first:
+      1: 100070
+    second: HeavyEquipmentTrailer:Wheel_Midle_L10
+  - first:
+      1: 100072
+    second: HeavyEquipmentTrailer:Wheel_Midle_L11
+  - first:
+      1: 100074
+    second: HeavyEquipmentTrailer:Wheel_Midle_L5
+  - first:
+      1: 100076
+    second: HeavyEquipmentTrailer:Wheel_Midle_L6
+  - first:
+      1: 100078
+    second: //RootNode
+  - first:
+      1: 100080
+    second: pasted__group
+  - first:
+      1: 100082
+    second: pasted__pasted__group1
+  - first:
+      1: 100084
+    second: pasted__pasted__polySurface381
+  - first:
+      1: 100086
+    second: pasted__pasted__polySurface382
+  - first:
+      1: 100088
+    second: pasted__transform1
+  - first:
+      1: 100090
+    second: Polyline
+  - first:
+      1: 100092
+    second: Polyline 1
+  - first:
+      1: 100094
+    second: Polyline 2
+  - first:
+      1: 100096
+    second: Polyline 3
+  - first:
+      1: 100098
+    second: Polyline 4
+  - first:
+      1: 100100
+    second: Polyline 5
+  - first:
+      1: 100102
+    second: Polyline 6
+  - first:
+      1: 100104
+    second: Polyline 7
+  - first:
+      1: 100106
+    second: Polyline 8
+  - first:
+      1: 100108
+    second: Polyline 9
+  - first:
+      1: 100110
+    second: polySurface2
+  - first:
+      1: 100112
+    second: polySurface3
+  - first:
+      1: 100114
+    second: polySurface4
+  - first:
+      1: 100116
+    second: Rectangle001
+  - first:
+      1: 100118
+    second: Rectangle002
+  - first:
+      1: 100120
+    second: Rectangle003
+  - first:
+      1: 100122
+    second: Rectangle004
+  - first:
+      1: 100124
+    second: Rectangle005
+  - first:
+      1: 100126
+    second: Rectangle005 1
+  - first:
+      1: 100128
+    second: Rectangle005 2
+  - first:
+      1: 100130
+    second: Rectangle005 3
+  - first:
+      1: 100132
+    second: Rectangle005 4
+  - first:
+      1: 100134
+    second: Rectangle005 5
+  - first:
+      1: 100136
+    second: Rectangle005 6
+  - first:
+      1: 100138
+    second: Rectangle005 7
+  - first:
+      1: 100140
+    second: Rectangle005 8
+  - first:
+      1: 100142
+    second: Rectangle005 9
+  - first:
+      1: 100144
+    second: Rectangle006
+  - first:
+      1: 100146
+    second: Rectangle006 1
+  - first:
+      1: 100148
+    second: Rectangle006 2
+  - first:
+      1: 100150
+    second: Rectangle006 3
+  - first:
+      1: 100152
+    second: Rectangle006 4
+  - first:
+      1: 100154
+    second: Rectangle006 5
+  - first:
+      1: 100156
+    second: Rectangle006 6
+  - first:
+      1: 100158
+    second: Rectangle006 7
+  - first:
+      1: 100160
+    second: Rectangle006 8
+  - first:
+      1: 100162
+    second: Rectangle006 9
+  - first:
+      1: 100164
+    second: Rectangle007
+  - first:
+      1: 100166
+    second: Rectangle007 1
+  - first:
+      1: 100168
+    second: Rectangle007 2
+  - first:
+      1: 100170
+    second: Rectangle007 3
+  - first:
+      1: 100172
+    second: Rectangle007 4
+  - first:
+      1: 100174
+    second: Rectangle007 5
+  - first:
+      1: 100176
+    second: Rectangle007 6
+  - first:
+      1: 100178
+    second: Rectangle007 7
+  - first:
+      1: 100180
+    second: Rectangle007 8
+  - first:
+      1: 100182
+    second: Rectangle007 9
+  - first:
+      1: 100184
+    second: Shape001
+  - first:
+      4: 400000
+    second: Arc
+  - first:
+      4: 400002
+    second: Arc2
+  - first:
+      4: 400004
+    second: Circle001
+  - first:
+      4: 400006
+    second: Circle001 1
+  - first:
+      4: 400008
+    second: Circle001 2
+  - first:
+      4: 400010
+    second: Circle001 3
+  - first:
+      4: 400012
+    second: Circle001 4
+  - first:
+      4: 400014
+    second: Circle001 5
+  - first:
+      4: 400016
+    second: Circle001 6
+  - first:
+      4: 400018
+    second: Circle001 7
+  - first:
+      4: 400020
+    second: Circle001 8
+  - first:
+      4: 400022
+    second: Circle001 9
+  - first:
+      4: 400024
+    second: group12
+  - first:
+      4: 400026
+    second: group14
+  - first:
+      4: 400028
+    second: group15
+  - first:
+      4: 400030
+    second: group16
+  - first:
+      4: 400032
+    second: group17
+  - first:
+      4: 400034
+    second: group18
+  - first:
+      4: 400036
+    second: group19
+  - first:
+      4: 400038
+    second: group2
+  - first:
+      4: 400040
+    second: group20
+  - first:
+      4: 400042
+    second: group21
+  - first:
+      4: 400044
+    second: group22
+  - first:
+      4: 400046
+    second: group23
+  - first:
+      4: 400048
+    second: group24
+  - first:
+      4: 400050
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:group1
+  - first:
+      4: 400052
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R
+  - first:
+      4: 400054
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R2
+  - first:
+      4: 400056
+    second: HeavyEquipmentTrailer:group1
+  - first:
+      4: 400058
+    second: HeavyEquipmentTrailer:polySurface82
+  - first:
+      4: 400060
+    second: HeavyEquipmentTrailer:polySurface85
+  - first:
+      4: 400062
+    second: HeavyEquipmentTrailer:polySurface86
+  - first:
+      4: 400064
+    second: HeavyEquipmentTrailer:polySurface97
+  - first:
+      4: 400066
+    second: HeavyEquipmentTrailer:T_3:Cabin
+  - first:
+      4: 400068
+    second: HeavyEquipmentTrailer:T_3:Truck_1A
+  - first:
+      4: 400070
+    second: HeavyEquipmentTrailer:Wheel_Midle_L10
+  - first:
+      4: 400072
+    second: HeavyEquipmentTrailer:Wheel_Midle_L11
+  - first:
+      4: 400074
+    second: HeavyEquipmentTrailer:Wheel_Midle_L5
+  - first:
+      4: 400076
+    second: HeavyEquipmentTrailer:Wheel_Midle_L6
+  - first:
+      4: 400078
+    second: //RootNode
+  - first:
+      4: 400080
+    second: pasted__group
+  - first:
+      4: 400082
+    second: pasted__pasted__group1
+  - first:
+      4: 400084
+    second: pasted__pasted__polySurface381
+  - first:
+      4: 400086
+    second: pasted__pasted__polySurface382
+  - first:
+      4: 400088
+    second: pasted__transform1
+  - first:
+      4: 400090
+    second: Polyline
+  - first:
+      4: 400092
+    second: Polyline 1
+  - first:
+      4: 400094
+    second: Polyline 2
+  - first:
+      4: 400096
+    second: Polyline 3
+  - first:
+      4: 400098
+    second: Polyline 4
+  - first:
+      4: 400100
+    second: Polyline 5
+  - first:
+      4: 400102
+    second: Polyline 6
+  - first:
+      4: 400104
+    second: Polyline 7
+  - first:
+      4: 400106
+    second: Polyline 8
+  - first:
+      4: 400108
+    second: Polyline 9
+  - first:
+      4: 400110
+    second: polySurface2
+  - first:
+      4: 400112
+    second: polySurface3
+  - first:
+      4: 400114
+    second: polySurface4
+  - first:
+      4: 400116
+    second: Rectangle001
+  - first:
+      4: 400118
+    second: Rectangle002
+  - first:
+      4: 400120
+    second: Rectangle003
+  - first:
+      4: 400122
+    second: Rectangle004
+  - first:
+      4: 400124
+    second: Rectangle005
+  - first:
+      4: 400126
+    second: Rectangle005 1
+  - first:
+      4: 400128
+    second: Rectangle005 2
+  - first:
+      4: 400130
+    second: Rectangle005 3
+  - first:
+      4: 400132
+    second: Rectangle005 4
+  - first:
+      4: 400134
+    second: Rectangle005 5
+  - first:
+      4: 400136
+    second: Rectangle005 6
+  - first:
+      4: 400138
+    second: Rectangle005 7
+  - first:
+      4: 400140
+    second: Rectangle005 8
+  - first:
+      4: 400142
+    second: Rectangle005 9
+  - first:
+      4: 400144
+    second: Rectangle006
+  - first:
+      4: 400146
+    second: Rectangle006 1
+  - first:
+      4: 400148
+    second: Rectangle006 2
+  - first:
+      4: 400150
+    second: Rectangle006 3
+  - first:
+      4: 400152
+    second: Rectangle006 4
+  - first:
+      4: 400154
+    second: Rectangle006 5
+  - first:
+      4: 400156
+    second: Rectangle006 6
+  - first:
+      4: 400158
+    second: Rectangle006 7
+  - first:
+      4: 400160
+    second: Rectangle006 8
+  - first:
+      4: 400162
+    second: Rectangle006 9
+  - first:
+      4: 400164
+    second: Rectangle007
+  - first:
+      4: 400166
+    second: Rectangle007 1
+  - first:
+      4: 400168
+    second: Rectangle007 2
+  - first:
+      4: 400170
+    second: Rectangle007 3
+  - first:
+      4: 400172
+    second: Rectangle007 4
+  - first:
+      4: 400174
+    second: Rectangle007 5
+  - first:
+      4: 400176
+    second: Rectangle007 6
+  - first:
+      4: 400178
+    second: Rectangle007 7
+  - first:
+      4: 400180
+    second: Rectangle007 8
+  - first:
+      4: 400182
+    second: Rectangle007 9
+  - first:
+      4: 400184
+    second: Shape001
+  - first:
+      21: 2100000
+    second: pasted__pasted__blinn19
+  - first:
+      23: 2300000
+    second: Arc
+  - first:
+      23: 2300002
+    second: Arc2
+  - first:
+      23: 2300004
+    second: Circle001
+  - first:
+      23: 2300006
+    second: Circle001 1
+  - first:
+      23: 2300008
+    second: Circle001 2
+  - first:
+      23: 2300010
+    second: Circle001 3
+  - first:
+      23: 2300012
+    second: Circle001 4
+  - first:
+      23: 2300014
+    second: Circle001 5
+  - first:
+      23: 2300016
+    second: Circle001 6
+  - first:
+      23: 2300018
+    second: Circle001 7
+  - first:
+      23: 2300020
+    second: Circle001 8
+  - first:
+      23: 2300022
+    second: Circle001 9
+  - first:
+      23: 2300024
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R
+  - first:
+      23: 2300026
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R2
+  - first:
+      23: 2300028
+    second: HeavyEquipmentTrailer:polySurface86
+  - first:
+      23: 2300030
+    second: HeavyEquipmentTrailer:T_3:Cabin
+  - first:
+      23: 2300032
+    second: HeavyEquipmentTrailer:T_3:Truck_1A
+  - first:
+      23: 2300034
+    second: HeavyEquipmentTrailer:Wheel_Midle_L10
+  - first:
+      23: 2300036
+    second: HeavyEquipmentTrailer:Wheel_Midle_L11
+  - first:
+      23: 2300038
+    second: HeavyEquipmentTrailer:Wheel_Midle_L5
+  - first:
+      23: 2300040
+    second: HeavyEquipmentTrailer:Wheel_Midle_L6
+  - first:
+      23: 2300042
+    second: Polyline
+  - first:
+      23: 2300044
+    second: Polyline 1
+  - first:
+      23: 2300046
+    second: Polyline 2
+  - first:
+      23: 2300048
+    second: Polyline 3
+  - first:
+      23: 2300050
+    second: Polyline 4
+  - first:
+      23: 2300052
+    second: Polyline 5
+  - first:
+      23: 2300054
+    second: Polyline 6
+  - first:
+      23: 2300056
+    second: Polyline 7
+  - first:
+      23: 2300058
+    second: Polyline 8
+  - first:
+      23: 2300060
+    second: Polyline 9
+  - first:
+      23: 2300062
+    second: polySurface2
+  - first:
+      23: 2300064
+    second: polySurface3
+  - first:
+      23: 2300066
+    second: polySurface4
+  - first:
+      23: 2300068
+    second: Rectangle001
+  - first:
+      23: 2300070
+    second: Rectangle002
+  - first:
+      23: 2300072
+    second: Rectangle003
+  - first:
+      23: 2300074
+    second: Rectangle004
+  - first:
+      23: 2300076
+    second: Rectangle005
+  - first:
+      23: 2300078
+    second: Rectangle005 1
+  - first:
+      23: 2300080
+    second: Rectangle005 2
+  - first:
+      23: 2300082
+    second: Rectangle005 3
+  - first:
+      23: 2300084
+    second: Rectangle005 4
+  - first:
+      23: 2300086
+    second: Rectangle005 5
+  - first:
+      23: 2300088
+    second: Rectangle005 6
+  - first:
+      23: 2300090
+    second: Rectangle005 7
+  - first:
+      23: 2300092
+    second: Rectangle005 8
+  - first:
+      23: 2300094
+    second: Rectangle005 9
+  - first:
+      23: 2300096
+    second: Rectangle006
+  - first:
+      23: 2300098
+    second: Rectangle006 1
+  - first:
+      23: 2300100
+    second: Rectangle006 2
+  - first:
+      23: 2300102
+    second: Rectangle006 3
+  - first:
+      23: 2300104
+    second: Rectangle006 4
+  - first:
+      23: 2300106
+    second: Rectangle006 5
+  - first:
+      23: 2300108
+    second: Rectangle006 6
+  - first:
+      23: 2300110
+    second: Rectangle006 7
+  - first:
+      23: 2300112
+    second: Rectangle006 8
+  - first:
+      23: 2300114
+    second: Rectangle006 9
+  - first:
+      23: 2300116
+    second: Rectangle007
+  - first:
+      23: 2300118
+    second: Rectangle007 1
+  - first:
+      23: 2300120
+    second: Rectangle007 2
+  - first:
+      23: 2300122
+    second: Rectangle007 3
+  - first:
+      23: 2300124
+    second: Rectangle007 4
+  - first:
+      23: 2300126
+    second: Rectangle007 5
+  - first:
+      23: 2300128
+    second: Rectangle007 6
+  - first:
+      23: 2300130
+    second: Rectangle007 7
+  - first:
+      23: 2300132
+    second: Rectangle007 8
+  - first:
+      23: 2300134
+    second: Rectangle007 9
+  - first:
+      23: 2300136
+    second: Shape001
+  - first:
+      33: 3300000
+    second: Arc
+  - first:
+      33: 3300002
+    second: Arc2
+  - first:
+      33: 3300004
+    second: Circle001
+  - first:
+      33: 3300006
+    second: Circle001 1
+  - first:
+      33: 3300008
+    second: Circle001 2
+  - first:
+      33: 3300010
+    second: Circle001 3
+  - first:
+      33: 3300012
+    second: Circle001 4
+  - first:
+      33: 3300014
+    second: Circle001 5
+  - first:
+      33: 3300016
+    second: Circle001 6
+  - first:
+      33: 3300018
+    second: Circle001 7
+  - first:
+      33: 3300020
+    second: Circle001 8
+  - first:
+      33: 3300022
+    second: Circle001 9
+  - first:
+      33: 3300024
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R
+  - first:
+      33: 3300026
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R2
+  - first:
+      33: 3300028
+    second: HeavyEquipmentTrailer:polySurface86
+  - first:
+      33: 3300030
+    second: HeavyEquipmentTrailer:T_3:Cabin
+  - first:
+      33: 3300032
+    second: HeavyEquipmentTrailer:T_3:Truck_1A
+  - first:
+      33: 3300034
+    second: HeavyEquipmentTrailer:Wheel_Midle_L10
+  - first:
+      33: 3300036
+    second: HeavyEquipmentTrailer:Wheel_Midle_L11
+  - first:
+      33: 3300038
+    second: HeavyEquipmentTrailer:Wheel_Midle_L5
+  - first:
+      33: 3300040
+    second: HeavyEquipmentTrailer:Wheel_Midle_L6
+  - first:
+      33: 3300042
+    second: Polyline
+  - first:
+      33: 3300044
+    second: Polyline 1
+  - first:
+      33: 3300046
+    second: Polyline 2
+  - first:
+      33: 3300048
+    second: Polyline 3
+  - first:
+      33: 3300050
+    second: Polyline 4
+  - first:
+      33: 3300052
+    second: Polyline 5
+  - first:
+      33: 3300054
+    second: Polyline 6
+  - first:
+      33: 3300056
+    second: Polyline 7
+  - first:
+      33: 3300058
+    second: Polyline 8
+  - first:
+      33: 3300060
+    second: Polyline 9
+  - first:
+      33: 3300062
+    second: polySurface2
+  - first:
+      33: 3300064
+    second: polySurface3
+  - first:
+      33: 3300066
+    second: polySurface4
+  - first:
+      33: 3300068
+    second: Rectangle001
+  - first:
+      33: 3300070
+    second: Rectangle002
+  - first:
+      33: 3300072
+    second: Rectangle003
+  - first:
+      33: 3300074
+    second: Rectangle004
+  - first:
+      33: 3300076
+    second: Rectangle005
+  - first:
+      33: 3300078
+    second: Rectangle005 1
+  - first:
+      33: 3300080
+    second: Rectangle005 2
+  - first:
+      33: 3300082
+    second: Rectangle005 3
+  - first:
+      33: 3300084
+    second: Rectangle005 4
+  - first:
+      33: 3300086
+    second: Rectangle005 5
+  - first:
+      33: 3300088
+    second: Rectangle005 6
+  - first:
+      33: 3300090
+    second: Rectangle005 7
+  - first:
+      33: 3300092
+    second: Rectangle005 8
+  - first:
+      33: 3300094
+    second: Rectangle005 9
+  - first:
+      33: 3300096
+    second: Rectangle006
+  - first:
+      33: 3300098
+    second: Rectangle006 1
+  - first:
+      33: 3300100
+    second: Rectangle006 2
+  - first:
+      33: 3300102
+    second: Rectangle006 3
+  - first:
+      33: 3300104
+    second: Rectangle006 4
+  - first:
+      33: 3300106
+    second: Rectangle006 5
+  - first:
+      33: 3300108
+    second: Rectangle006 6
+  - first:
+      33: 3300110
+    second: Rectangle006 7
+  - first:
+      33: 3300112
+    second: Rectangle006 8
+  - first:
+      33: 3300114
+    second: Rectangle006 9
+  - first:
+      33: 3300116
+    second: Rectangle007
+  - first:
+      33: 3300118
+    second: Rectangle007 1
+  - first:
+      33: 3300120
+    second: Rectangle007 2
+  - first:
+      33: 3300122
+    second: Rectangle007 3
+  - first:
+      33: 3300124
+    second: Rectangle007 4
+  - first:
+      33: 3300126
+    second: Rectangle007 5
+  - first:
+      33: 3300128
+    second: Rectangle007 6
+  - first:
+      33: 3300130
+    second: Rectangle007 7
+  - first:
+      33: 3300132
+    second: Rectangle007 8
+  - first:
+      33: 3300134
+    second: Rectangle007 9
+  - first:
+      33: 3300136
+    second: Shape001
+  - first:
+      43: 4300000
+    second: HeavyEquipmentTrailer:polySurface86
+  - first:
+      43: 4300002
+    second: HeavyEquipmentTrailer:T_3:Truck_1A
+  - first:
+      43: 4300004
+    second: HeavyEquipmentTrailer:T_3:Cabin
+  - first:
+      43: 4300006
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R
+  - first:
+      43: 4300008
+    second: HeavyEquipmentTrailer:all_trucks_2:new_truck_2:new_truck_2:Wheel_Front_R2
+  - first:
+      43: 4300010
+    second: HeavyEquipmentTrailer:Wheel_Midle_L5
+  - first:
+      43: 4300012
+    second: HeavyEquipmentTrailer:Wheel_Midle_L6
+  - first:
+      43: 4300014
+    second: HeavyEquipmentTrailer:Wheel_Midle_L10
+  - first:
+      43: 4300016
+    second: HeavyEquipmentTrailer:Wheel_Midle_L11
+  - first:
+      43: 4300018
+    second: polySurface3
+  - first:
+      43: 4300020
+    second: Rectangle002
+  - first:
+      43: 4300022
+    second: Rectangle003
+  - first:
+      43: 4300024
+    second: Shape001
+  - first:
+      43: 4300026
+    second: Rectangle004
+  - first:
+      43: 4300028
+    second: Rectangle001
+  - first:
+      43: 4300030
+    second: polySurface2
+  - first:
+      43: 4300032
+    second: Arc
+  - first:
+      43: 4300034
+    second: polySurface4
+  - first:
+      43: 4300036
+    second: Arc2
+  - first:
+      43: 4300038
+    second: Rectangle005
+  - first:
+      43: 4300040
+    second: Circle001
+  - first:
+      43: 4300042
+    second: Polyline
+  - first:
+      43: 4300044
+    second: Rectangle006
+  - first:
+      43: 4300046
+    second: Rectangle007
+  - first:
+      43: 4300048
+    second: Rectangle005
+  - first:
+      43: 4300050
+    second: Circle001
+  - first:
+      43: 4300052
+    second: Polyline
+  - first:
+      43: 4300054
+    second: Rectangle006
+  - first:
+      43: 4300056
+    second: Rectangle007
+  - first:
+      43: 4300058
+    second: Rectangle005
+  - first:
+      43: 4300060
+    second: Circle001
+  - first:
+      43: 4300062
+    second: Polyline
+  - first:
+      43: 4300064
+    second: Rectangle006
+  - first:
+      43: 4300066
+    second: Rectangle007
+  - first:
+      43: 4300068
+    second: Rectangle005
+  - first:
+      43: 4300070
+    second: Circle001
+  - first:
+      43: 4300072
+    second: Polyline
+  - first:
+      43: 4300074
+    second: Rectangle006
+  - first:
+      43: 4300076
+    second: Rectangle007
+  - first:
+      43: 4300078
+    second: Rectangle005
+  - first:
+      43: 4300080
+    second: Circle001
+  - first:
+      43: 4300082
+    second: Polyline
+  - first:
+      43: 4300084
+    second: Rectangle006
+  - first:
+      43: 4300086
+    second: Rectangle007
+  - first:
+      43: 4300088
+    second: Rectangle005
+  - first:
+      43: 4300090
+    second: Circle001
+  - first:
+      43: 4300092
+    second: Polyline
+  - first:
+      43: 4300094
+    second: Rectangle006
+  - first:
+      43: 4300096
+    second: Rectangle007
+  - first:
+      43: 4300098
+    second: Rectangle005
+  - first:
+      43: 4300100
+    second: Circle001
+  - first:
+      43: 4300102
+    second: Polyline
+  - first:
+      43: 4300104
+    second: Rectangle006
+  - first:
+      43: 4300106
+    second: Rectangle007
+  - first:
+      43: 4300108
+    second: Rectangle005
+  - first:
+      43: 4300110
+    second: Circle001
+  - first:
+      43: 4300112
+    second: Polyline
+  - first:
+      43: 4300114
+    second: Rectangle006
+  - first:
+      43: 4300116
+    second: Rectangle007
+  - first:
+      43: 4300118
+    second: Rectangle005
+  - first:
+      43: 4300120
+    second: Circle001
+  - first:
+      43: 4300122
+    second: Polyline
+  - first:
+      43: 4300124
+    second: Rectangle006
+  - first:
+      43: 4300126
+    second: Rectangle007
+  - first:
+      43: 4300128
+    second: Rectangle005
+  - first:
+      43: 4300130
+    second: Circle001
+  - first:
+      43: 4300132
+    second: Polyline
+  - first:
+      43: 4300134
+    second: Rectangle006
+  - first:
+      43: 4300136
+    second: Rectangle007
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 7400000
+      firstFrame: 1
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
